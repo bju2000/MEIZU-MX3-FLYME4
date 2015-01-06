@@ -2580,6 +2580,7 @@
     <string name="nfc_ese">Встроенные модули безопасности</string>
     <string name="nfc_sim_se">Модули безопасности SIM-карты</string>
     <string name="nfc_se_td_tips">Этот модуль безопасности SIM-карты необходим, когда мобильный кошелёк удалён из SIM-карты. Для считывания других карт необходимо использовать встроенный модуль безопасности.</string>
+    <string name="nfc_se_w_tips">Этот модуль безопасности SIM-карты необходим, когда мобильный кошелёк удалён из SIM-карты. Для считывания других карт необходимо использовать встроенный модуль безопасности.</string>
     <string name="notification_wakeup_screen">Выключить пробуждение уведомлением</string>
     <string name="repeat_coming_call_notify">Повторять сигнал вызова</string>
     <string name="coming_call_white_list">Белый список режима DND</string>
