@@ -2589,4 +2589,15 @@
     <string name="drive_mode_inmsg_voice">Читать новые сообщения</string>
     <string name="drive_mode_msg_reply_title">Отправлять сообщение после завершения вх. вызова</string>
     <string name="drive_mode_autoplay_music">Включать музыку автоматически</string>
+    <string name="smart_touch_title">СмартТач</string>
+    <string name="smart_touch_tips">СмартТач служит для возврата, сдвига экрана вниз и других настраеваемых функций.</string>
+    <string name="smart_touch_switch_title">СмартТач</string>
+    <string name="smart_touch_category_title">Настройки</string>
+    <string name="smart_touch_behavior_click_title">Тап</string>
+    <string name="smart_touch_behavior_doubleclick_title">Двойной тап</string>
+    <string name="smart_touch_behavior_long_title">Удержание</string>
+    <string name="smart_touch_behavior_up_title">Слайд вверх</string>
+    <string name="smart_touch_behavior_down_title">Слайд вниз</string>
+    <string name="smart_touch_behavior_left_right_title">Слайд влево/вправо</string>
+    <string name="smart_touch_opacity">Видимость</string>
 </resources>
