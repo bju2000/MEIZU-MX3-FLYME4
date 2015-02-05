@@ -1466,5 +1466,5 @@
     <string name="show_favorites_only">Только часто используемые</string>
     <string name="call_log_activity_title">История</string>
     <string name="show_all_contacts_title">Все контакты</string>
-	<string name="cancel_sms_list">Отменить</string>
+    <string name="cancel_sms_list">Отменить</string>
 </resources>
