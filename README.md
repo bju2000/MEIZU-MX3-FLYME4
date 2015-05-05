@@ -1,4 +1,4 @@
 MEIZU MX3 - FLYME4
 ============
 
-Файлы локализации прошивки Flyme 4.X.X.X (MX3) для jBART. Перевод для форума (4PDA.RU)
+jBART ​​에 대한 파일 펌웨어 현지화 Flyme 4.XXX ( MX3 )
